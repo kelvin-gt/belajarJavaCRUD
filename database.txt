@@ -1,0 +1,6 @@
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+faqihza_2019_2,2019,faqihza,gramedia,belajar python
+faqihza_2019_3,2019,faqihza,gramedia,belajar Java
+otong_2020_1,2020,otong,kompas,my life
+otongsurotong_2022_4,2022,otong surotong,gramedia,my hearts
